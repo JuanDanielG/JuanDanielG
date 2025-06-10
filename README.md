@@ -6,17 +6,17 @@ Hey, I'm Juan Daniel! 👨‍💻
 
 🚀 **-About Me**
 
-🎓 Systems Engineering Student at Universidad Francisco de Paula Santander.
+  🎓 Systems Engineering Student at Universidad Francisco de Paula Santander.
 
-💻 Frontend Developer passionate about creating exceptional web experiences.
+  💻 Frontend Developer passionate about creating exceptional web experiences.
 
-🔍 QA Tester with ISTQB foundations and manual testing expertise.
+  🔍 QA Tester with ISTQB foundations and manual testing expertise.
 
-📍 Based in Ocaña, Norte de Santander - Colombia.
+  📍 Based in Ocaña, Norte de Santander - Colombia.
 
-🌱 Currently learning advanced Angular and automated testing.
+  🌱 Currently learning advanced Angular and automated testing.
 
-📫 How to reach me: jdgaleanon@ufpso.edu.co
+  📫 How to reach me: jdgaleanon@ufpso.edu.co
 
 
 
@@ -29,16 +29,16 @@ Hey, I'm Juan Daniel! 👨‍💻
 
 🏆 **-Certifications**
 
-🗄️ Database Foundations - Oracle (2024).
+  🗄️ Database Foundations - Oracle (2024).
 
-🔧 Professional Git Course - CódigoFacilito (2024).
+  🔧 Professional Git Course - CódigoFacilito (2024).
 
-🐍 Python Fundamentals - UFPSO Tdrobótica (2023).
+  🐍 Python Fundamentals - UFPSO Tdrobótica (2023).
 
-🏗️ Clean Architecture - UFPSO & Pragma (2023).
+  🏗️ Clean Architecture - UFPSO & Pragma (2023).
 
-📊 Data Analysis Bootcamp - Talento Tech MinTic (2025).
-
+  📊 Data Analysis Bootcamp - Talento Tech MinTic (2025).
+  
 
 
 📈 **-Contribution Graph**
@@ -49,13 +49,13 @@ Hey, I'm Juan Daniel! 👨‍💻
 
 🎯 **-Current Goals**
 
-🚀 Mastering Angular framework.
+  🚀 Mastering Angular framework.
 
-🤖 Learning automated testing tools.
+  🤖 Learning automated testing tools.
 
-🔧 Contributing to open source projects.
+  🔧 Contributing to open source projects.
 
-📱 Exploring with Script Case development.
+  📱 Exploring with Script Case development.
 
 
 🤝 **-Let's Connect!**
